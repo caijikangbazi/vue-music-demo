@@ -1,17 +1,13 @@
 <template>
-  <div>
-    排行榜
+  <div >
+    排行
   </div>
 </template>
 
 <script>
-export default {
-  data () {
-    return {}
-  }
-}
+
 </script>
 
-<style scoped lang="scss">
+<style lang="scss" scoped>
 
 </style>
