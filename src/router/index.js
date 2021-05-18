@@ -11,7 +11,7 @@ const routes = [
   },
   {
     path: '/singer',
-    component: () => import('@/views/recommend')
+    component: () => import('@/views/singer')
   },
   {
     path: '/top-list',
